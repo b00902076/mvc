@@ -3,5 +3,5 @@
     define('SITE_ROOT' , 'http://127.0.0.1:8888/mvc/');
     
     require_once(SERVER_ROOT . 'controllers/' . 'router.php');
-    echo "SSSSSSSSSSSSS";
+    echo "SSSSSSSSSSSSaaS";
 ?>
